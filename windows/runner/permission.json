@@ -1,0 +1,27 @@
+{
+  "permissions": [
+    "fileSystem",
+    "network",
+    "notifications",
+    "deviceAccess",
+    "registryAccess",
+    "shortcutCreation",
+    "processManagement"
+  ],
+  "requiredFor": {
+    "fileSystem": "Local database storage, backup/export of reports and logs",
+    "network": "Checking for software updates and support contact",
+    "notifications": "Low-stock alerts and security event notifications",
+    "deviceAccess": "Receipt printer, barcode scanner, and POS hardware integration",
+    "registryAccess": "Application registration and uninstall entry (Windows)",
+    "shortcutCreation": "Desktop and Start Menu shortcuts",
+    "processManagement": "Hardware device communication and background tasks"
+  },
+  "developer": {
+    "company": "Farm Management",
+    "website": "farmmanagement.local",
+    "supportEmail": "support@farmmanagement.local",
+    "leadEngineers": ["System Administrator"]
+  },
+  "version": "3.2.0"
+}

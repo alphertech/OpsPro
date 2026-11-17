@@ -1,0 +1,44 @@
+name: plexus
+description: Plexus - Point of Sale & Business Management System by AlpherTech
+version: 4.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo.png
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  sqflite: ^2.3.0
+  sqflite_common_ffi: ^2.3.0
+  path: ^1.8.3
+  path_provider: ^2.1.1
+  decimal: ^2.3.3
+  provider: ^6.0.5
+  intl: ^0.18.1
+  file_picker: ^6.1.1
+  printing: ^5.11.1
+  pdf: ^3.10.7
+  esc_pos_printer_lts: ^4.1.2
+  esc_pos_utils_lts: ^0.0.1
+  excel: ^2.0.0
+  crypto: ^3.0.0
+  shared_preferences: ^2.2.0
+  shared_preferences_windows: ^2.2.0
+  window_manager: ^0.3.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  inno_bundle: ^0.12.0
+  
+inno_bundle:
+  id: 12b85ac0-a504-11f1-8e2f-3d963265878d
+  publisher: DELL

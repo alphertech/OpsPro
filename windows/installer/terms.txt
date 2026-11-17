@@ -1,0 +1,91 @@
+TERMS AND CONDITIONS OF USAGE
+Plexus — Version 3.2
+Developed by AlpherTech (alphertech.com/plexus)
+Support: alphertech@gmail.com
+Helpline: +256 708 885 123
+
+1. ACCEPTANCE OF TERMS
+    By installing or using Plexus (Version 3.2), you agree
+    to these Terms and Conditions and the End User License Agreement (EULA).
+    If you do not agree, do not install or use the software.
+
+2. GRANTED USAGE RIGHTS
+    AlpherTech grants you a personal, non-exclusive, non-transferable,
+    limited right to use the software for your internal business operations only.
+    Commercial redistribution or resale is strictly prohibited without written
+    authorization from AlpherTech.
+
+3. PROHIBITED ACTIVITIES
+    You may not:
+    - Reverse engineer, decompile, or disassemble the software.
+    - Remove or alter any copyright, trademark, or proprietary notices.
+    - Distribute, rent, lease, sublicense, or transfer the software.
+    - Use the software for any illegal purpose or in violation of any law.
+    - Circumvent any security measures implemented in the software.
+
+4. DATA GOVERNANCE
+    - The software operates 100% offline. All data remains on your local device.
+    - You are the sole owner of your business data entered into the system.
+    - AlpherTech does not access, collect, or transmit your data.
+    - You are responsible for maintaining backups of your data.
+
+5. SUPPORT AND CONTACT
+    - Email: alphertech@gmail.com
+    - Website: alphertech.com/plexus
+    - Helpline: +256 708 885 123
+    - Lead Engineers: Twale James Massete, Mugenyi Allan
+    Developer credentials are published through the official support channels
+    listed above. AlpherTech will never contact you first via phone;
+    you must initiate contact if support is needed.
+
+6. UPDATES AND MAINTENANCE
+    - Updates may be released at the sole discretion of AlpherTech.
+    - Updates are provided "as-is" with no guarantee of compatibility.
+    - You are responsible for backing up data before applying updates.
+
+7. WARRANTY DISCLAIMER
+    THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. ALPHERTECH
+    DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WARRANTIES
+    OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+8. LIMITATION OF LIABILITY
+    ALPHERTECH SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+    SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING FROM THE USE OF OR
+    INABILITY TO USE THE SOFTWARE. THE ENTIRE RISK ARISING FROM USE OR
+    PERFORMANCE OF THE SOFTWARE REMAINS WITH YOU.
+
+9. INDEMNIFICATION
+    You agree to indemnify and hold harmless AlpherTech and its
+    affiliates, officers, and employees from any claims, liabilities, damages,
+    losses, or expenses arising from your use of the software or violation
+    of these terms.
+
+10. TERMINATION
+     This agreement may be terminated by AlpherTech at any time
+     if you breach these terms. Upon termination, you must uninstall and
+     destroy all copies of the software.
+
+11. GOVERNING LAW
+     These terms shall be governed by and construed in accordance with the
+     laws of Uganda. Any disputes shall be subject to the exclusive jurisdiction
+     of the courts of Uganda.
+
+12. THIRD-PARTY COMPONENTS
+     This software may include third-party open-source libraries. Your use
+     of those components is governed by their respective licenses. A complete
+     list is available upon request from alphertech@gmail.com.
+
+13. ENTIRE AGREEMENT
+     These Terms and Conditions, together with the EULA, constitute the entire
+     agreement between you and AlpherTech regarding the software and
+     supersede all prior or contemporaneous communications.
+
+Contact Information:
+  AlpherTech
+  Website: alphertech.com/plexus
+  Email: alphertech@gmail.com
+  Helpline: +256 708 885 123
+  Lead Engineers: Twale James Massete, Mugenyi Allan
+
+Version: 3.2
+© 2026 AlpherTech. All rights reserved.
